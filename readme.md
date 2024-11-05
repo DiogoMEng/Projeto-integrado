@@ -45,6 +45,9 @@ O Dashboard inclui as seguintes métricas e KPIs:
 Visão Geral:
 ![alt text](public/img/visao-geral.png)
 
+Evolução de Desmatamento e Malário:
+![alt text](public/img/evolucao-desmatamento-malaria.png)
+
 # 🚀 Como Usar
 
 1. Clone o repositório:

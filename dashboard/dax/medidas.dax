@@ -1,0 +1,12 @@
+﻿//# Área total desmatada #
+
+area total desmatada = SUM ( F_desmatamento[area_desmatada] )
+
+
+
+//# Casos de sintomas registrados #
+
+casos de sintomas registrados = CALCULATE (
+    COUNT ( F_incidentes_malaria[sintoma] ),
+    F_incidentes_malaria[sintoma] = "yes"
+)
